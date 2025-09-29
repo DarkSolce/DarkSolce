@@ -219,21 +219,6 @@
 
 ---
 
-### 👐 TalkHands – Sign Language Translator
-[![GitHub Stars](https://img.shields.io/badge/Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DarkSolce)
-
-**Tech Stack:** `Python` `OpenCV` `MediaPipe` `TensorFlow` `NumPy`
-
-**Innovation:** Real-time sign language to speech translation using computer vision
-
-**Key Features:**
-- 👋 **Hand Gesture Recognition** using MediaPipe
-- 🎤 **Real-time Speech Synthesis**
-- 📱 **Webcam-based Interface**
-- 🌍 **Accessibility Solution** for communication
-
----
-
 ## 🌟 Core Competencies
 
 ### 🔬 Technical Skills
