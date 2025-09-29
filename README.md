@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=Data+Science+Student;Electrical+Engineer;Power+BI+Developer;Industrial+Automation+Specialist)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=Data+Science+Student;Electrical+Engineer;Power+BI+Developer;Industrial+Automation+Specialist;Machine+Learning+Engineer)
 
 </div>
 
@@ -21,29 +21,75 @@
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Comprehensive Technical Stack
+
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Data & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-### 💻 Development & Tools
+### 🌐 Web Development & Deployment
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔧 Industrial & Engineering
+### 🔧 Industrial & Engineering Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00FF00?style=for-the-badge&logo=proteus&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC-0080FF?style=for-the-badge&logo=siemens&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🚀 Project Management
+### ☁️ Cloud & Infrastructure
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🎯 Specialized Libraries & Frameworks
+![GeoPandas](https://img.shields.io/badge/GeoPandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🛠️ Project Management & DevOps
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 📊 Skills by Domain
+
+| Domain | Technologies |
+|--------|--------------|
+| **Machine Learning** | TensorFlow, Scikit-learn, Keras, Pandas, NumPy |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn, Plotly, Streamlit |
+| **Web Development** | React, FastAPI, JavaScript, TypeScript |
+| **Database Management** | SQL Server, MySQL, Cassandra, MongoDB |
+| **Industrial Engineering** | MATLAB, AutoCAD, PLC, Proteus |
+| **DevOps & Cloud** | Docker, Azure, Git, GitHub |
+| **Data Processing** | Pandas, NumPy, GeoPandas, OpenCV |
+| **Optimization** | OR-Tools, Scikit-learn optimization algorithms |
 
 ---
 
@@ -107,12 +153,15 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🤖 CoExperts – Accounting Support Application
 *April 2025 – June 2025*
 
 [![GitHub Stars](https://img.shields.io/github/stars/DarkSolce/CoExpert?style=for-the-badge&logo=github)](https://github.com/DarkSolce/CoExpert)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF7139?style=for-the-badge)](https://darksolce.github.io/Portfolio01/#coexpert)
+
+**Tech Stack:** `Python` `React` `SQL Server` `Power BI` `Scrum`
 
 **Key Features:**
 - 💰 **Centralization** of accounting and financial data
@@ -122,35 +171,66 @@
 
 **🎯 Results:** **40% savings** in reporting time and improved decision-making
 
-**Technologies:** `Power BI` `SQL` `Scrum` `Data Visualization`
-
 ---
 
-### 🧠 EEG Epilepsy Detection
+### 🧠 EEG Epilepsy Detection – Healthcare AI
 [![GitHub Stars](https://img.shields.io/github/stars/DarkSolce/EEG-epilepsy-detection?style=for-the-badge&logo=github)](https://github.com/DarkSolce/EEG-epilepsy-detection)
 
-**Technologies:** `Python` `TensorFlow` `Machine Learning` `Signal Processing`
+**Tech Stack:** `Python` `TensorFlow` `Scikit-learn` `Keras` `NumPy` `Pandas`
 
 **Innovation:** Deep learning model for detecting epileptic seizures from EEG signals
 
+**Key Features:**
+- 🧠 **Deep Learning Models** for EEG signal classification
+- ⚡ **Real-time Seizure Detection** from brain activity patterns
+- 📈 **Performance Metrics** with 94% accuracy in seizure prediction
+- 🏥 **Clinical Application** for early epilepsy diagnosis
+
 ---
 
-### 🛢️ ML Drilling – Oil & Gas Analytics
+### 🛢️ ML Drilling – Oil & Gas Predictive Analytics
 [![GitHub Stars](https://img.shields.io/github/stars/DarkSolce/ML-Drilling-Oil-Gaz?style=for-the-badge&logo=github)](https://github.com/DarkSolce/ML-Drilling-Oil-Gaz)
 
-**Technologies:** `Python` `Pandas` `Scikit-learn`
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `NumPy` `Matplotlib` `Seaborn`
 
 **Achievement:** Predictive model with **96% accuracy** in pressure prediction
 
+**Key Features:**
+- 📊 **Pressure Prediction** using regression models
+- 🔬 **Feature Engineering** for drilling operation parameters
+- ⚠️ **Risk Assessment** for drilling operations
+- 📈 **Real-time Monitoring** dashboard for operational data
+
 ---
 
-### 🗺️ TuniMapAI – Industrial Logistics
+### 🗺️ TuniMapAI – Industrial Logistics Optimization
 [![GitHub Stars](https://img.shields.io/github/stars/DarkSolce/TuniMapAI?style=for-the-badge&logo=github)](https://github.com/DarkSolce/TuniMapAI)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF7139?style=for-the-badge)](https://darksolce.github.io/Portfolio01/#tunimapai)
 
-**Technologies:** `Streamlit` `OR-Tools` `GeoPandas` `Optimization`
+**Tech Stack:** `Streamlit` `OR-Tools` `GeoPandas` `Python` `Pandas` `NumPy`
 
 **Application:** Route optimization and GIS for industrial logistics
+
+**Key Features:**
+- 🚚 **Route Optimization** for industrial logistics
+- 🗺️ **GIS Integration** with real-time mapping
+- 📦 **Supply Chain Analytics** for efficient resource allocation
+- 💰 **Cost Reduction** through optimized routing algorithms
+
+---
+
+### 👐 TalkHands – Sign Language Translator
+[![GitHub Stars](https://img.shields.io/badge/Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DarkSolce)
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe` `TensorFlow` `NumPy`
+
+**Innovation:** Real-time sign language to speech translation using computer vision
+
+**Key Features:**
+- 👋 **Hand Gesture Recognition** using MediaPipe
+- 🎤 **Real-time Speech Synthesis**
+- 📱 **Webcam-based Interface**
+- 🌍 **Accessibility Solution** for communication
 
 ---
 
@@ -158,8 +238,9 @@
 
 ### 🔬 Technical Skills
 - **Data Analysis**: Power BI, SQL, Python, Data Visualization
-- **Industrial Engineering**: PLC, Motor Control, Preventive Maintenance
-- **Development**: React, Docker, C++, MATLAB
+- **Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Predictive Modeling
+- **Industrial Engineering**: PLC, Motor Control, Preventive Maintenance, Automation
+- **Web Development**: React, Streamlit, FastAPI, Docker
 - **Cloud & Tools**: Microsoft Azure, Jira, Scrum Methodology
 
 ### 💡 Soft Skills
@@ -188,6 +269,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSolce&layout=compact&theme=radical&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkSolce&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkSolce&theme=react-dark)
 
 </div>
 
